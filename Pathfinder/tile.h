@@ -12,7 +12,6 @@ public:
     void reset();
 
 
-
 private:
 
     int x_;
